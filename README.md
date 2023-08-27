@@ -17,8 +17,8 @@
 ### 周刊
 
 提示：可通过微信公众号订阅
-阮一峰的科技周刊  https://www.ruanyifeng.com/blog/weekly/
-Python 潮流周刊  https://github.com/chinesehuazhou/python-weekly
+ 阮一峰的科技周刊  https://www.ruanyifeng.com/blog/weekly/
+ Python 潮流周刊  https://github.com/chinesehuazhou/python-weekly
 
 ### 电子书
 
