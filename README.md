@@ -17,14 +17,17 @@
 ### 周刊
 
 提示：可通过微信公众号订阅
- 阮一峰的科技周刊  https://www.ruanyifeng.com/blog/weekly/
- Python 潮流周刊  https://github.com/chinesehuazhou/python-weekly
+
+阮一峰的科技周刊  https://www.ruanyifeng.com/blog/weekly/
+
+Python 潮流周刊  https://github.com/chinesehuazhou/python-weekly
 
 ### 电子书
 
 Python 数据之道 [liyangbit/Python-Knowledge-Handbook: Python Knowledge Handbook by Python数据之道， website： http://liyangbit.com/ (github.com)](https://github.com/liyangbit/Python-Knowledge-Handbook)
 
 python 电子书 https://github.com/anzhihe/learning/tree/master/python
+
 通用电子书查找 https://annas-archive.org/
 
 ### 培训视频
